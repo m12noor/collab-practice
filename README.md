@@ -1,8 +1,6 @@
 # collab-practice
-# updated by user b
-# this is updated in feature-branch
-   
-# this is new updation
-# This filel contain new updation ans this is belongs to feature branch
+This repository is created for testing collaboration workflows, pull requests, and code reviews between multiple users.
+
+Updated by User B to practice branch merging and version control management.
 
    
