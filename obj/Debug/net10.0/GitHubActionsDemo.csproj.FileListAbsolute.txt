@@ -1,0 +1,15 @@
+E:\Devops\github for devops\GitHubActionsDemo\bin\Debug\net10.0\GitHubActionsDemo.exe
+E:\Devops\github for devops\GitHubActionsDemo\bin\Debug\net10.0\GitHubActionsDemo.deps.json
+E:\Devops\github for devops\GitHubActionsDemo\bin\Debug\net10.0\GitHubActionsDemo.runtimeconfig.json
+E:\Devops\github for devops\GitHubActionsDemo\bin\Debug\net10.0\GitHubActionsDemo.dll
+E:\Devops\github for devops\GitHubActionsDemo\bin\Debug\net10.0\GitHubActionsDemo.pdb
+E:\Devops\github for devops\GitHubActionsDemo\obj\Debug\net10.0\GitHubActionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Devops\github for devops\GitHubActionsDemo\obj\Debug\net10.0\GitHubActionsDemo.AssemblyInfoInputs.cache
+E:\Devops\github for devops\GitHubActionsDemo\obj\Debug\net10.0\GitHubActionsDemo.AssemblyInfo.cs
+E:\Devops\github for devops\GitHubActionsDemo\obj\Debug\net10.0\GitHubActionsDemo.csproj.CoreCompileInputs.cache
+E:\Devops\github for devops\GitHubActionsDemo\obj\Debug\net10.0\GitHubActionsDemo.sourcelink.json
+E:\Devops\github for devops\GitHubActionsDemo\obj\Debug\net10.0\GitHubActionsDemo.dll
+E:\Devops\github for devops\GitHubActionsDemo\obj\Debug\net10.0\refint\GitHubActionsDemo.dll
+E:\Devops\github for devops\GitHubActionsDemo\obj\Debug\net10.0\GitHubActionsDemo.pdb
+E:\Devops\github for devops\GitHubActionsDemo\obj\Debug\net10.0\GitHubActionsDemo.genruntimeconfig.cache
+E:\Devops\github for devops\GitHubActionsDemo\obj\Debug\net10.0\ref\GitHubActionsDemo.dll
