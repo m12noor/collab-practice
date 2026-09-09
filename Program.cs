@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("GitHub Action trigger test successful!");
+ #this is C# project file for a .NET application. It specifies that the project uses the Microsoft.NET.Sdk, outputs an executable (Exe), targets the .NET 10.0 framework, enables implicit usings, and enables nullable reference types.
