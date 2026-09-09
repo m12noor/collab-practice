@@ -1,0 +1,27 @@
+name: Build C# Solution on PR Approval
+
+on:
+  pull_request_review:
+    types: [submitted]
+
+jobs:
+  build:
+    if: github.event.review.state == 'approved'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Restore dependencies
+        run: dotnet restore
+
+      - name: Build solution
+        run: dotnet build --configuration Release --no-restore
