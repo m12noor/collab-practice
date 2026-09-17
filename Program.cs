@@ -1,1 +1,1 @@
-﻿Console.WriteLine("GitHub Action trigger has tested successfully!");
+﻿Console.WriteLine("GitHub Action trigger  successful!");
